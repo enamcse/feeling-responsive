@@ -23,10 +23,10 @@
 #  class: icon-googleplus
 #  title: "YouTube"
 
- - name: Facebook
-   url: http://www.facebook.com/enamcse
-   class: icon-facebook
-   title: ""
+- name: Facebook
+  url: http://www.facebook.com/enamcse
+  class: icon-facebook
+  title: ""
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
