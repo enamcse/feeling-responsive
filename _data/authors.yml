@@ -12,3 +12,10 @@ phlow: # replace this with your info
   email:
   twitter: "@phlow"
 # you can add more authors here
+enam: # replace this with your info
+  name: "Enamul Hassan"
+  siterole: "learner, developer"
+  uri: https://www.sust.edu/d/cse/faculty-profile-detail/590
+  email: enam-cse@sust.edu
+  twitter: "@enamcse"
+# you can add more authors here
